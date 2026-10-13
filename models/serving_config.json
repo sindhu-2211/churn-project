@@ -1,0 +1,5 @@
+{
+  "model": "logistic_regression",
+  "high_risk_min": 0.8470067771146801,
+  "medium_risk_min": 0.6281346708460547
+}

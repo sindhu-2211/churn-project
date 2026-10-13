@@ -1,0 +1,7 @@
+# Only what the API needs at runtime (keeps the Docker image smaller)
+pandas==3.0.5
+numpy==2.5.3
+scikit-learn==1.9.1
+shap==0.53.0
+fastapi==0.143.0
+uvicorn

@@ -1,0 +1,6 @@
+data/
+reports/
+notebooks/
+tests/
+*.db
+__pycache__/
